@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.kareym.realestate.hw08","l":"Genre"},{"p":"com.kareym.realestate.hw08","l":"InvalidPropertyException"},{"p":"com.kareym.realestate.hw08","l":"LoggerConfig"},{"p":"com.kareym.realestate.hw08","l":"Main"},{"p":"com.kareym.realestate.hw08","l":"RealEstate"}];updateSearchResults();

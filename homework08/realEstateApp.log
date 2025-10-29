@@ -1,0 +1,48 @@
+Oct 30, 2025 12:13:23 AM com.kareym.realestate.hw08.Main main
+INFO: Application started
+Oct 30, 2025 12:13:23 AM com.kareym.realestate.hw08.RealEstate <init>
+INFO: Creating RealEstate object
+Oct 30, 2025 12:13:23 AM com.kareym.realestate.hw08.RealEstate setCity
+INFO: setCity() called
+Oct 30, 2025 12:13:23 AM com.kareym.realestate.hw08.RealEstate setPricePerSqm
+INFO: setPricePerSqm() called
+Oct 30, 2025 12:13:23 AM com.kareym.realestate.hw08.RealEstate setSqm
+INFO: setSqm() called
+Oct 30, 2025 12:13:23 AM com.kareym.realestate.hw08.RealEstate setNumberOfRooms
+INFO: setNumberOfRooms() called
+Oct 30, 2025 12:13:23 AM com.kareym.realestate.hw08.RealEstate setGenre
+INFO: setGenre() called
+Oct 30, 2025 12:13:23 AM com.kareym.realestate.hw08.RealEstate <init>
+INFO: RealEstate object created successfully
+Oct 30, 2025 12:13:23 AM com.kareym.realestate.hw08.RealEstate toString
+INFO: toString() called
+Oct 30, 2025 12:13:23 AM com.kareym.realestate.hw08.RealEstate totalPrice
+INFO: Calculating total price
+Oct 30, 2025 12:13:23 AM com.kareym.realestate.hw08.RealEstate totalPrice
+INFO: Calculating total price
+Oct 30, 2025 12:13:23 AM com.kareym.realestate.hw08.Main main
+INFO: Application finished successfully
+Oct 30, 2025 12:31:58 AM com.kareym.realestate.hw08.Main main
+INFO: Application started
+Oct 30, 2025 12:31:58 AM com.kareym.realestate.hw08.RealEstate <init>
+INFO: Creating RealEstate object
+Oct 30, 2025 12:31:58 AM com.kareym.realestate.hw08.RealEstate setCity
+INFO: setCity() called
+Oct 30, 2025 12:31:58 AM com.kareym.realestate.hw08.RealEstate setPricePerSqm
+INFO: setPricePerSqm() called
+Oct 30, 2025 12:31:58 AM com.kareym.realestate.hw08.RealEstate setSqm
+INFO: setSqm() called
+Oct 30, 2025 12:31:58 AM com.kareym.realestate.hw08.RealEstate setNumberOfRooms
+INFO: setNumberOfRooms() called
+Oct 30, 2025 12:31:58 AM com.kareym.realestate.hw08.RealEstate setGenre
+INFO: setGenre() called
+Oct 30, 2025 12:31:58 AM com.kareym.realestate.hw08.RealEstate <init>
+INFO: RealEstate object created successfully
+Oct 30, 2025 12:31:58 AM com.kareym.realestate.hw08.RealEstate toString
+INFO: toString() called
+Oct 30, 2025 12:31:58 AM com.kareym.realestate.hw08.RealEstate totalPrice
+INFO: Calculating total price
+Oct 30, 2025 12:31:58 AM com.kareym.realestate.hw08.RealEstate totalPrice
+INFO: Calculating total price
+Oct 30, 2025 12:31:58 AM com.kareym.realestate.hw08.Main main
+INFO: Application finished successfully
